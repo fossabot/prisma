@@ -4,6 +4,7 @@
   <h1>Prisma</h1>
   <a href="https://www.npmjs.com/package/@prisma/cli"><img src="https://img.shields.io/npm/v/@prisma/cli.svg?style=flat" /></a>
   <a href="https://github.com/prisma/prisma/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FJolg42%2Fprisma?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FJolg42%2Fprisma.svg?type=shield"/></a>
   <a href="https://github.com/prisma/prisma/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue" /></a>
   <a href="https://slack.prisma.io/"><img src="https://img.shields.io/badge/chat-on%20slack-blue.svg" /></a>
   <br />
@@ -26,6 +27,9 @@
   <br />
   <hr />
 </div>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJolg42%2Fprisma.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJolg42%2Fprisma?ref=badge_large)
 
 ## What is Prisma?
 
